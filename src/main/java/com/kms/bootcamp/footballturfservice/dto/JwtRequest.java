@@ -1,4 +1,4 @@
-package com.kms.bootcamp.footballturfservice.dto.auth;
+package com.kms.bootcamp.footballturfservice.dto;
 
 
 import java.io.Serializable;

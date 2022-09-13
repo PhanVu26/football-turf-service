@@ -1,7 +1,7 @@
 package com.kms.bootcamp.footballturfservice.controller;
 
-import com.kms.bootcamp.footballturfservice.dto.auth.JwtRequest;
-import com.kms.bootcamp.footballturfservice.dto.auth.JwtResponse;
+import com.kms.bootcamp.footballturfservice.dto.JwtRequest;
+import com.kms.bootcamp.footballturfservice.dto.JwtResponse;
 import com.kms.bootcamp.footballturfservice.security.JwtUserDetailsService;
 import com.kms.bootcamp.footballturfservice.security.TokenManager;
 import org.springframework.beans.factory.annotation.Autowired;
